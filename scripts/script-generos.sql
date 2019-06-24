@@ -1,0 +1,5 @@
+CREATE TABLE genero (
+  id INT NOT NULL AUTO_INCREMENT,
+  nombre_genero VARCHAR(30) NOT NULL,
+  PRIMARY KEY (id)
+);
